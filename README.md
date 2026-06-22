@@ -15,9 +15,9 @@
 ```
 https://fast.bexino.dpdns.org/https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
 https://fast.bexino.dpdns.org/https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
-https://fast.bexino.dpdns.org/https://easylist-downloads.adblockplus.org/easylistchina.txt
-https://fast.bexino.dpdns.org/https://easylist-downloads.adblockplus.org/easylist.txt
-https://fast.bexino.dpdns.org/https://easylist-downloads.adblockplus.org/easyprivacy.txt
+https://easylist-downloads.adblockplus.org/easylistchina.txt
+https://easylist-downloads.adblockplus.org/easylist.txt
+https://easylist-downloads.adblockplus.org/easyprivacy.txt
 ```
 
 > [!WARNING]
@@ -27,11 +27,11 @@ https://fast.bexino.dpdns.org/https://easylist-downloads.adblockplus.org/easypri
 ###  原始地址
 
 ```
-https://fast.bexino.dpdns.org/https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
-https://fast.bexino.dpdns.org/https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
-https://fast.bexino.dpdns.org/https://easylist-downloads.adblockplus.org/easylistchina.txt
-https://fast.bexino.dpdns.org/https://easylist-downloads.adblockplus.org/easylist.txt
-https://fast.bexino.dpdns.org/https://easylist-downloads.adblockplus.org/easyprivacy.txt
+https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
+https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
+https://easylist-downloads.adblockplus.org/easylistchina.txt
+https://easylist-downloads.adblockplus.org/easylist.txt
+https://easylist-downloads.adblockplus.org/easyprivacy.txt
 ```
 
 ---
